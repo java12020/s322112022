@@ -1,22 +1,22 @@
 # s322112022
 Repositório da turma de Java 3 (22/11/2022)
 
-# Setup
+# Exercício Prático
 
-## Ferramentas necessárias durante a aula 
+## Crie 2 endpoint (rotas) na nossa aplicação Agenda 
 
-- Spring Suite Tools: https://spring.io/tools
+- Observe os campos retornados no response
 
-![ Spring Suite Tools](https://i.ibb.co/GMZ3H56/image.png "Spring Suite Tools")
+![ Spring Suite Tools](https://i.ibb.co/Y0QxfMc/image.png "Spring Suite Tools")
 
-- JDK 11: https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+## Formulário para Envio da Atividade
 
-![ JDK 11](https://i.ibb.co/pxHX0fR/image.png "JDK 11")
+https://forms.gle/rrKHfDQNug1CP7Y8A
 
-- Lombok: https://projectlombok.org/download
 
-![ Lombok](https://i.ibb.co/YcHHz04/image.png "Lombok")
+# Exercício Teórico
 
-- Postman: https://www.postman.com/downloads/
+https://forms.gle/xkJ3zjffHZKTAETh6
 
-![ Postman](https://i.ibb.co/2y3vnxq/image.png "Postman")
+
+## Prazo: 05/12/2022
