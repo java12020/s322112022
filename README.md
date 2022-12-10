@@ -49,12 +49,6 @@ Utilize a arquitetura de divisão em camadas que vimos em sala de aula.
 
 ## Formulário para Envio da Atividade
 
-https://forms.gle/rrKHfDQNug1CP7Y8A
+[https://forms.gle/rrKHfDQNug1CP7Y8A](https://forms.gle/AGP9WrWycpaV6h6A7)
 
-
-# Exercício Teórico
-
-https://forms.gle/xkJ3zjffHZKTAETh6
-
-
-## Prazo: 05/12/2022
+## Prazo: 13/12/2022
